@@ -18,7 +18,7 @@ git clone https://github.com/aristizabaru/learn_php_the_right_way.git
 
 ## Lessons
 
-This repository is divided by the lessons (videos) that are part of the **Learn PHP The Right Way List** (code comments are in spanish)
+This repository is divided by the lessons (videos) that are part of the [Learn PHP The Right Way List](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) (code comments are in spanish)
 
 ### [1. Basic PHP syntax](1_basic_syntax)
 
