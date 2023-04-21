@@ -29,3 +29,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [4. PHP Boolean Data Type](4_boolean_type)
 
 ### [5. PHP Integer Data type](5_integer_type)
+
+### [6. PHP Float Data Type](6_float_type)
