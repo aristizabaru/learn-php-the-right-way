@@ -20,12 +20,12 @@ git clone https://github.com/aristizabaru/learn_php_the_right_way.git
 
 This repository is divided by the lessons (videos) that are part of the **Learn PHP The Right Way List** (code comments are in spanish)
 
-### [1. Basic syntax](1_basic_syntax)
+### [1. Basic PHP syntax](1_basic_syntax)
 
-Explains basic PHP syntax, variables and how to print PHP to HTML
+### [2. What are constants & varibale variables](2_constants_&_variable_variables)
 
-### [2. Constants and varibale variables](2_constants_&_variable_variables)
+### [3. PHP Data Types - Typecasting Overview & How It Works](3_data_types)
 
-It defines the concept of constants in PHP, the different ways to declare them and gives an introduction to magic constants and built-in constants. [Click here to go to the official documentation on constants](https://www.php.net/manual/es/language.constants.php)
+### [4. PHP Boolean Data Type](4_boolean_type)
 
-This lesson also covers the concept of variable variables and how they can be used
+### [5. PHP Integer Data type](5_integer_type)
