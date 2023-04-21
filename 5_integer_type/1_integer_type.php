@@ -33,7 +33,7 @@ $a = 0b11111111; // número binario (equivale al 255 decimal)
 // Valor máximo de integer en el sistema
 echo "Int max: " . PHP_INT_MAX . "</br>";
 // Valor mínimo de integer en el sistema
-echo "Int in: " . PHP_INT_MIN . "</br>";
+echo "Int min: " . PHP_INT_MIN . "</br>";
 
 // Casting - operación el casting a integer
 
@@ -51,7 +51,7 @@ $x = (int) '0'; // 0
 // Verficar si la variable es int
 var_dump(is_int($x));
 echo "</br>";
-// Nueva sintaxis para mejorar lecturabilidad
 
+// Nueva sintaxis para mejorar lecturabilidad
 $big_number = 200_000;
 echo $big_number; // 200000
