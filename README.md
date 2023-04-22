@@ -31,3 +31,7 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [5. PHP Integer Data type](5_integer_type)
 
 ### [6. PHP Float Data Type](6_float_type)
+
+### [7. PHP String Data Type - Heredoc & Nowdoc Syntax](7_string_type)
+
+### [8. PHP Null Data Type](8_null_type)
