@@ -37,3 +37,7 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [8. PHP Null Data Type](8_null_type)
 
 ### [9. PHP Array Data Type - Indexed, Associative & Multi-Dimensional Arrays](8_array_type)
+
+### [10. What Are Expressions In PHP & How They Are Evaluated](10_expressions)
+
+### [11. PHP Operators](11_operators)
