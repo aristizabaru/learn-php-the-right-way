@@ -38,7 +38,8 @@ var_dump($result); // 25 -> Primero divide $x y $y, luego multiplca por $z
 /**
  * Operadores non-associative o no asociativos
  * Cuando varios operadores comparten la misma precedencia y no tienen
- * asociatividad, no pueden ir juntos porque produce un error de sintaxis
+ * asociatividad, no pueden ir juntos en el mismo statement (declaración)
+ * porque produce un error de sintaxis
  */
 
  // $result = $x < $y > $z; -> Parse error: syntax error, unexpected token ">"
