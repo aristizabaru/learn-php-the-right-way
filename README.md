@@ -41,3 +41,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [10. What Are Expressions In PHP & How They Are Evaluated](10_expressions)
 
 ### [11. PHP Operators](11_operators)
+
+### [12. PHP Operator Precedence & Associativity ](12_precedence_associativity)
