@@ -5,7 +5,7 @@
  * La sentencia switch es similar a una serie de sentencias IF en la misma expresión.
  * En muchas ocasiones, es posible que se quiera comparar la misma variable
  * (o expresión) con muchos valores diferentes, y ejecutar una parte de
- * código distinta dependiendo de a que valor es igual. 
+ * código distinta dependiendo de a que valor es igual
  * 
  * Documentation: https://www.php.net/manual/es/control-structures.switch.php
  */
