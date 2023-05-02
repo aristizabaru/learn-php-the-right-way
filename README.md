@@ -43,3 +43,9 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [11. PHP Operators](11_operators)
 
 ### [12. PHP Operator Precedence & Associativity ](12_precedence_associativity)
+
+### [13. Control Structures in PHP - Conditional Statements - if/else ](13_conditionals)
+
+### [14. PHP Loops Tutorial - Break & Continue Statements ](14_loops)
+
+### [15. PHP Switch Statement - Switch vs if/else statement ](14_loops)
