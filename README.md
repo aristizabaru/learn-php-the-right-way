@@ -48,4 +48,10 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 
 ### [14. PHP Loops Tutorial - Break & Continue Statements ](14_loops)
 
-### [15. PHP Switch Statement - Switch vs if/else statement ](14_loops)
+### [15. PHP Switch Statement - Switch vs if/else statement ](15_switch)
+
+### [16. PHP Match Expression - Match vs Switch ](16_switch)
+
+### [17. PHP Return, Declare & Tickable Statements ](17_return_declare_tickable)
+
+### [18. How To Include Files In PHP - Include and Require](18_include_require)
