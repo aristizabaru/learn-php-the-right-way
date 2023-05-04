@@ -55,3 +55,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [17. PHP Return, Declare & Tickable Statements ](17_return_declare_tickable)
 
 ### [18. How To Include Files In PHP - Include and Require](18_include_require)
+
+### [19. How To Create Functions In PHP - Functions Tutorial](19_functions)
