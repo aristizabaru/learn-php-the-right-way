@@ -41,6 +41,7 @@ function sum_4(): void
 }
 
 // Usando el operador | se pueden exspecificar varios tipos de datos -> PHP 8.0
+// Esto se llama union types
 function sum_5(): int|float|array
 {
     return 3.2;
