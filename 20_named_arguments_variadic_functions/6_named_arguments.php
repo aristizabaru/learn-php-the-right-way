@@ -20,7 +20,7 @@ declare(strict_types=1);
 
 function display_age_by_name(string $name, int $age): void
 {
-    echo "$name tiene $age años";
+    echo "$name tiene $age años" . '</br>';
 }
 
 // Se emplea named arguments para pasar los valores
@@ -38,3 +38,8 @@ setcookie('foo', 'bar', 0, '', '', false, true);
 
 // Con named argument solo se especifica y los otros seran tomados con su default value
 setcookie(name: 'foo', value: 'bar', httponly: true);
+
+
+// Unpack un array asosiativa como argumento resulta en las keys como named arguments
+$data = ['name' => 'Daniela', 'age' => 29];
+display_age_by_name(...$data);
