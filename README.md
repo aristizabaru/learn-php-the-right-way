@@ -59,3 +59,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [19. How To Create Functions In PHP - Functions Tutorial](19_functions)
 
 ### [20. PHP Function Parameters - Named Arguments - Variadic Functions & Unpacking](20_named_arguments_variadic_functions)
+
+### [21. PHP Variable Scopes - Static Variables](21_variable_scopes)
