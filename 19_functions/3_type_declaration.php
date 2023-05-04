@@ -1,16 +1,15 @@
-<?php // Type hints
+<?php // Type declaration
 
 /**
- * Type hints
- * Es posible definir la indicación de tipo tanto en los parámetros
+ * Type declaration
+ * Es posible definir la declaración de tipo tanto en los parámetros
  * de las funciones como en su retorno.
  * 
  * Documentación:
- * https://www.php.net/manual/es/functions.arguments.php#functions.arguments.type-declaration.types
+ * https://www.php.net/manual/es/language.types.declarations.php
  */
 
 // Para evitar la conversión de tipos es imperativo declarar el modo estricto
-
 function sum(int $x, int $y): int // Así se especifica el tipo de return
 {
     return $x + $y;
