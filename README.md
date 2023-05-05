@@ -63,3 +63,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [21. PHP Variable Scopes - Static Variables](21_variable_scopes)
 
 ### [22. Variable, Anonymous, Callable, Closure & Arrow Functions In PHP ](22_variable_anonymous_arrow_function)
+
+### [23. How To Work With Dates & Time Zones ](23_dates_time_zones)
