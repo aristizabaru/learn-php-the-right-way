@@ -23,4 +23,27 @@ $sum = function (int|float ...$numbers) use ($x): int|float {
     return array_sum($numbers);
 };
 
-echo $sum(1, 2, 3, 4); // 10
+echo $sum(1, 2, 3, 4) . '</br>'; // 10
+
+/**
+ * Ejemplo de closure
+ * Se retorna una anonymous function con una unión al scope padre, por lo
+ * que puede acceder al valor de la variable $saludo independientemente
+ * que la función ya se haya ejecutado.
+ * 
+ * La closure es asiganda a una variables.
+ */
+
+function generar_saludo(string $saludo): closure
+{
+    // El valor de $saludo queda unido a la función anónima
+    return function () use ($saludo): string {
+        return $saludo;
+    };
+}
+
+$saludo_es = generar_saludo('Hola Amigo');
+$saludo_en = generar_saludo('Hello friend');
+
+echo $saludo_en() . '</br>';
+echo $saludo_es() . '</br>';
