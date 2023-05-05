@@ -44,3 +44,25 @@ $array_arrow = array_map(
 );
 
 print_r($array_arrow);
+
+
+/**
+ * Ejemplo de closure con arrow function
+ * Se retorna una arrow function con una unión al scope padre, por lo
+ * que puede acceder al valor de la variable $saludo independientemente
+ * que la función ya se haya ejecutado.
+ * 
+ * La closure es asiganda a una variables.
+ */
+
+function generar_saludo(string $saludo): closure
+{
+    // El valor de $saludo queda unido al arrow function
+    return fn (): string => $saludo;
+}
+
+$saludo_es = generar_saludo('Hola Amigo');
+$saludo_en = generar_saludo('Hello friend');
+
+echo $saludo_en() . '</br>';
+echo $saludo_es() . '</br>';
