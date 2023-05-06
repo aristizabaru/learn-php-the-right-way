@@ -67,3 +67,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [23. How To Work With Dates & Time Zones ](23_dates_time_zones)
 
 ### [24. How To Work With Arrays In PHP ](24_array_built-in)
+
+### [25. How To Work With PHPs Configuration File - PHP.INI](25_php_configuration_file)
