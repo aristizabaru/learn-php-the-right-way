@@ -7,6 +7,10 @@
  * esto sucede únicamente cuando se inicia el servidor. En las
  * versiones CGI y CLI, esto ocurre en cada ejecución.
  * 
+ * Para producción es importante desactivar el reporte de errores
+ * cambiando la directiva display_errors a off y como buena práctica
+ * hacer uso de los logs de PHP para debug
+ * 
  * Documentación:
  * https://www.php.net/manual/es/configuration.file.php
  * 
