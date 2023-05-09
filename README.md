@@ -69,3 +69,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### [24. How To Work With Arrays In PHP ](24_array_built-in)
 
 ### [25. How To Work With PHPs Configuration File - PHP.INI](25_php_configuration_file)
+
+### [26. PHP Error Handling & Error Handlers](26_error_handling)
