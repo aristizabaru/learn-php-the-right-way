@@ -1,5 +1,7 @@
 # Section 1 - Basic PHP projetct
 
+This is the first project of the course, the goal is to build throughout the entire program a simple expense tracking application. However for this first part we will build a file parser using procedural programming. In the second part of this program the project will be refactored to use OOP
+
 ## Related Video
 
 https://youtu.be/MOsolLaVnsI
