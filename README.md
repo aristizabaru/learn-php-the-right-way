@@ -20,56 +20,62 @@ git clone https://github.com/aristizabaru/learn_php_the_right_way.git
 
 This repository is divided by the lessons (videos) that are part of the [Learn PHP The Right Way List](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) (code comments are in spanish)
 
-### [1. Basic PHP syntax](1_basic_syntax)
+### Section 1 - Basic PHP
 
-### [2. What are constants & varibale variables](2_constants_&_variable_variables)
+#### [1. Basic PHP syntax](1_basic_syntax)
 
-### [3. PHP Data Types - Typecasting Overview & How It Works](3_data_types)
+#### [2. What are constants & varibale variables](2_constants_&_variable_variables)
 
-### [4. PHP Boolean Data Type](4_boolean_type)
+#### [3. PHP Data Types - Typecasting Overview & How It Works](3_data_types)
 
-### [5. PHP Integer Data type](5_integer_type)
+#### [4. PHP Boolean Data Type](4_boolean_type)
 
-### [6. PHP Float Data Type](6_float_type)
+#### [5. PHP Integer Data type](5_integer_type)
 
-### [7. PHP String Data Type - Heredoc & Nowdoc Syntax](7_string_type)
+#### [6. PHP Float Data Type](6_float_type)
 
-### [8. PHP Null Data Type](8_null_type)
+#### [7. PHP String Data Type - Heredoc & Nowdoc Syntax](7_string_type)
 
-### [9. PHP Array Data Type - Indexed, Associative & Multi-Dimensional Arrays](8_array_type)
+#### [8. PHP Null Data Type](8_null_type)
 
-### [10. What Are Expressions In PHP & How They Are Evaluated](10_expressions)
+#### [9. PHP Array Data Type - Indexed, Associative & Multi-Dimensional Arrays](8_array_type)
 
-### [11. PHP Operators](11_operators)
+#### [10. What Are Expressions In PHP & How They Are Evaluated](10_expressions)
 
-### [12. PHP Operator Precedence & Associativity ](12_precedence_associativity)
+#### [11. PHP Operators](11_operators)
 
-### [13. Control Structures in PHP - Conditional Statements - if/else ](13_conditionals)
+#### [12. PHP Operator Precedence & Associativity ](12_precedence_associativity)
 
-### [14. PHP Loops Tutorial - Break & Continue Statements ](14_loops)
+#### [13. Control Structures in PHP - Conditional Statements - if/else ](13_conditionals)
 
-### [15. PHP Switch Statement - Switch vs if/else statement ](15_switch)
+#### [14. PHP Loops Tutorial - Break & Continue Statements ](14_loops)
 
-### [16. PHP Match Expression - Match vs Switch ](16_switch)
+#### [15. PHP Switch Statement - Switch vs if/else statement ](15_switch)
 
-### [17. PHP Return, Declare & Tickable Statements ](17_return_declare_tickable)
+#### [16. PHP Match Expression - Match vs Switch ](16_switch)
 
-### [18. How To Include Files In PHP - Include and Require](18_include_require)
+#### [17. PHP Return, Declare & Tickable Statements ](17_return_declare_tickable)
 
-### [19. How To Create Functions In PHP - Functions Tutorial](19_functions)
+#### [18. How To Include Files In PHP - Include and Require](18_include_require)
 
-### [20. PHP Function Parameters - Named Arguments - Variadic Functions & Unpacking](20_named_arguments_variadic_functions)
+#### [19. How To Create Functions In PHP - Functions Tutorial](19_functions)
 
-### [21. PHP Variable Scopes - Static Variables](21_variable_scopes)
+#### [20. PHP Function Parameters - Named Arguments - Variadic Functions & Unpacking](20_named_arguments_variadic_functions)
 
-### [22. Variable, Anonymous, Callable, Closure & Arrow Functions In PHP ](22_variable_anonymous_arrow_function)
+#### [21. PHP Variable Scopes - Static Variables](21_variable_scopes)
 
-### [23. How To Work With Dates & Time Zones ](23_dates_time_zones)
+#### [22. Variable, Anonymous, Callable, Closure & Arrow Functions In PHP ](22_variable_anonymous_arrow_function)
 
-### [24. How To Work With Arrays In PHP ](24_array_built-in)
+#### [23. How To Work With Dates & Time Zones ](23_dates_time_zones)
 
-### [25. How To Work With PHPs Configuration File - PHP.INI](25_php_configuration_file)
+#### [24. How To Work With Arrays In PHP ](24_array_built-in)
 
-### [26. PHP Error Handling & Error Handlers](26_error_handling)
+#### [25. How To Work With PHPs Configuration File - PHP.INI](25_php_configuration_file)
 
-### [27. Working With File System In PHPs](27_work_file_system)
+#### [26. PHP Error Handling & Error Handlers](26_error_handling)
+
+#### [27. Working With File System In PHPs](27_work_file_system)
+
+#### [28. Building Small Part Of an App With Procedural PHP](28_procedural_app)
+
+### Section 2 - Intermediate PHP (OOP)
