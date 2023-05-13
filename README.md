@@ -81,3 +81,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 ### Section 2 - Intermediate PHP (OOP)
 
 #### [29. PHP Classes & Objects - Typed Properties - Constructors & Destructors](29_clases_objects)
+
+#### [30. Constructor Property Promotion - Nullsafe Operator](30_constructor_property_promotion_nullsafe)
