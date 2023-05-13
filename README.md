@@ -79,3 +79,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [28. Building Small Part Of an App With Procedural PHP](28_procedural_app)
 
 ### Section 2 - Intermediate PHP (OOP)
+
+#### [29. PHP Classes & Objects - Typed Properties - Constructors & Destructors](29_clases_objects)
