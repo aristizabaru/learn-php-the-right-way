@@ -85,3 +85,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [30. Constructor Property Promotion - Nullsafe Operator](30_constructor_property_promotion_nullsafe)
 
 #### [31. PHP Namespace Tutorial](31_php_namespace)
+
+#### [32. PHP Coding Standards, Autoloading (PSR-4) & Composer](32_autoloading_composer)
