@@ -64,9 +64,9 @@
  */
 
 declare(strict_types=1);
-require_once '../PaymentGateway/Stripe/Transaction.php';
-require_once '../PaymentGateway/Stripe/CustomerProfile.php';
-require_once '../PaymentGateway/Paddle/Transaction.php';
+require_once __DIR__ . DIRECTORY_SEPARATOR . '../PaymentGateway/Stripe/Transaction.php';
+require_once __DIR__ . DIRECTORY_SEPARATOR . '../PaymentGateway/Stripe/CustomerProfile.php';
+require_once __DIR__ . DIRECTORY_SEPARATOR . '../PaymentGateway/Paddle/Transaction.php';
 
 // El namespace se importa usando 'use'
 use PaymentGateway\Stripe\Transaction as Stripe;
