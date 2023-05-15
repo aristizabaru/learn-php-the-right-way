@@ -1,0 +1,17 @@
+{
+  "name": "aristizabaru/static",
+  "description": "Explore the use static properties and methods",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
