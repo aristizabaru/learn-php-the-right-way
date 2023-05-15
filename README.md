@@ -87,3 +87,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [31. PHP Namespace Tutorial](31_php_namespace)
 
 #### [32. PHP Coding Standards, Autoloading (PSR-4) & Composer](32_autoloading_composer)
+
+#### [33. Object Oriented PHP - Class Constants](33_class_constants)
