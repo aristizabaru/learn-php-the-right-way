@@ -1,0 +1,17 @@
+{
+  "name": "aristizabaru/constants",
+  "description": "Explore the use of class constants",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
