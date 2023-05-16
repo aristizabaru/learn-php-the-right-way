@@ -1,10 +1,10 @@
-# Encapsulation & abstraction
+# Inheritance
 
 These examples begin to explore the main principles of object-oriented programming:
 
-- encapsulation
+- Encapsulation
 - Abstraction
-- Inheritance
+- **Inheritance**
 - Polymorphism
 
 [Video lesson](https://www.youtube.com/watch?v=LyyzeYOoH5s&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-&index=43)

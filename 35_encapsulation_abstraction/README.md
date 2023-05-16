@@ -2,8 +2,8 @@
 
 These examples begin to explore the main principles of object-oriented programming:
 
-- encapsulation
-- Abstraction
+- **Encapsulation**
+- **Abstraction**
 - Inheritance
 - Polymorphism
 
