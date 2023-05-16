@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/oop",
+  "description": "Explore the concept of abstract class",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "require": {}
+}
