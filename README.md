@@ -93,3 +93,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [34. Static Properties & Methods In Object Oriented PHP](34_static_properties_methods)
 
 #### [35. PHP - Encapsulation & Abstraction](35_encapsulation_abstraction)
+
+#### [36. PHP - Inheritance Explained - Is Inheritance Good?](36_inheritance)
