@@ -95,3 +95,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [35. PHP - Encapsulation & Abstraction](35_encapsulation_abstraction)
 
 #### [36. PHP - Inheritance Explained - Is Inheritance Good?](36_inheritance)
+
+#### [37. PHP Abstract Classes & Methods ](37_abstract_class_methods)
