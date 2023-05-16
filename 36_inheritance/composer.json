@@ -1,0 +1,17 @@
+{
+  "name": "aristizabaru/oop",
+  "description": "Explore the OOP concepts of inheritance",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
