@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/latestatic",
+  "description": "Exploer Late Static concept",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
