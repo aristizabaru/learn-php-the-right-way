@@ -17,6 +17,11 @@
  * 
  * Este problema es resuelto por el late static biding que usando el tipo static
  * en vez de self ayuda a que el biding se resuelva en tiempo de ejecución.
+ * 
+ * Siempre cuando se extienda a una clase, es mejor usar static::method o 
+ * static::property desde la clase hija que usar self::method o self::property
+ * porque puede hacer alusión a la clase padre aunque se haga el llamado desde
+ * la clase hija.
  */
 
 declare(strict_types=1);
