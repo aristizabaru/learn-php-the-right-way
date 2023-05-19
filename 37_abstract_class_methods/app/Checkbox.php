@@ -16,6 +16,9 @@
  * 3. Todas las clases secundarias de una clase abstracta deben implementar sus
  * métodos abstractos.
  * 
+ * 4. Si se declara dentro de una clase un método abstracto entonces toda la clase
+ * debe ser declarada como abstracta
+ * 
  * Usos
  * Las clases abstractas se deberían de implementar cuando se quiere forzar
  * la implementación de algunos métodos definidos en ella y a su vez
