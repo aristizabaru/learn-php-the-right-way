@@ -105,3 +105,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [40. What Is Late Static Binding & How It Works In PHP](40_late_static_binding)
 
 #### [41. PHP Traits - How They Work & Drawbacks](41_traits)
+
+#### [42. PHP Anonymous Classes](42_anonymous_classes)
