@@ -10,6 +10,12 @@
  * También se puede usar el comparador dede identidad '===' que solo retorna
  * verdadero si ambos objetos apuntan al mismo objeto, si no son el mismo
  * objeto en memoria arrojará 'false'
+ * 
+ * Para ver un pequeño acercamiento acerca de cómo los objetos son guardados
+ * en memoria usando symbols table y zend values, por favor remitirse al
+ * video de la lección:
+ * https://www.youtube.com/watch?v=zCGmZb3z-r8&list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-
+ * 
  */
 
 declare(strict_types=1);
