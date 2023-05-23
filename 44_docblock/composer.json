@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/docblock",
+  "description": "Explore DocBlock use",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
