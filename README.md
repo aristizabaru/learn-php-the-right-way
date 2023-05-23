@@ -107,3 +107,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [41. PHP Traits - How They Work & Drawbacks](41_traits)
 
 #### [42. PHP Anonymous Classes](42_anonymous_classes)
+
+#### [43. PHP Variable Storage & Object Comparison - Zend Value (zval)](43_object_comparison)
