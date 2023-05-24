@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/serialize",
+  "description": "Explore serialize & unserialize concepts",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
