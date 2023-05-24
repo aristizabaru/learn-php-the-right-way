@@ -111,3 +111,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [43. PHP Variable Storage & Object Comparison - Zend Value (zval)](43_object_comparison)
 
 #### [44. PHP DocBlock - Adding Comments to Classes & Methods](44_docblock)
+
+#### [45. PHP - Object Cloning & Clone Magic Method](45_object_cloning)
