@@ -113,3 +113,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [44. PHP DocBlock - Adding Comments to Classes & Methods](44_docblock)
 
 #### [45. PHP - Object Cloning & Clone Magic Method](45_object_cloning)
+
+#### [46. PHP Serialize Objects & Serialize Magic Methods](46_serialize)
