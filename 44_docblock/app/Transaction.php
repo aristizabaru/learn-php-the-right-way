@@ -26,7 +26,7 @@ class Transaction
 
     public function __construct()
     {
-        $this->id = 'xxx-xxx-xxx';
+        $this->id = uniqid('invoice_');
     }
     /**
      * Process a customer transaction
