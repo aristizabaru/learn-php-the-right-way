@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/objectcloning",
+  "description": "Explore how to clone objects and use of __clone",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
