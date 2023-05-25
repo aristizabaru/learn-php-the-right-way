@@ -115,3 +115,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [45. PHP - Object Cloning & Clone Magic Method](45_object_cloning)
 
 #### [46. PHP Serialize Objects & Serialize Magic Methods](46_serialize)
+
+#### [47. OOP Error Handling In PHP - Exceptions & Try Catch Finally Blocks](47_opp_error_handling)
