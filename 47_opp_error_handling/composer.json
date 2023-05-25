@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/exception",
+  "description": "Explore Exceptions & Try Catch Finally blocks",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
