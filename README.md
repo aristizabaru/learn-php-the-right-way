@@ -119,3 +119,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [47. OOP Error Handling In PHP - Exceptions & Try Catch Finally Blocks](47_opp_error_handling)
 
 #### [48. PHP - DateTime Object](48_datetime_object)
+
+#### [49. HP Iterators & Iterable Type - Iterate Over Objects](49_iterators)
