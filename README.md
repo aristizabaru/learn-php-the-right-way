@@ -120,4 +120,6 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 
 #### [48. PHP - DateTime Object](48_datetime_object)
 
-#### [49. HP Iterators & Iterable Type - Iterate Over Objects](49_iterators)
+#### [49. PHP Iterators & Iterable Type - Iterate Over Objects](49_iterators)
+
+#### [50. PHP Superglobals - Basic Routing Using The Server Info](50_superglobals)
