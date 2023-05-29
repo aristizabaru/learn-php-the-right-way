@@ -122,4 +122,6 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 
 #### [49. PHP Iterators & Iterable Type - Iterate Over Objects](49_iterators)
 
-#### [50. PHP Superglobals - Basic Routing Using The Server Info](50_superglobals)
+#### [50. PHP Superglobals - Basic Routing Using The Server Info](50_server_superglobal)
+
+#### [51. Get & Post Superglobals In PHP - Forms - Post Route](51_get_post)
