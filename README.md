@@ -127,3 +127,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [51. Get & Post Superglobals In PHP - Forms - Post Route](51_get_post)
 
 #### [52. PHP Sessions & Cookies - Output Buffering - Headers Already Sent Warning ](52_session_cookies)
+
+#### [53. PHP File Uploads](53_file_upload)
