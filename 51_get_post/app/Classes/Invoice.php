@@ -23,8 +23,10 @@ class Invoice
 
     public function create(): string
     {
+        $CONSTANTS = get_defined_constants();
+
         $view =  <<<FORM
-        <form action="/51_get_post/public/invoice/create" method="post">
+        <form action="{$CONSTANTS['BASE_PATH']}/invoice/create" method="post">
             <label for="input">Input Amout</label>
             <input type="text" name="amount" id="input" />
         </form>
