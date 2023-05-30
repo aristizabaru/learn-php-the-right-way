@@ -125,3 +125,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [50. PHP Superglobals - Basic Routing Using The Server Info](50_server_superglobal)
 
 #### [51. Get & Post Superglobals In PHP - Forms - Post Route](51_get_post)
+
+#### [52. PHP Sessions & Cookies - Output Buffering - Headers Already Sent Warning ](52_session_cookies)
