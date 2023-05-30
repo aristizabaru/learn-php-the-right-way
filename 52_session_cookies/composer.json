@@ -1,6 +1,6 @@
 {
   "name": "aristizabaru/superglobals",
-  "description": "Explore superglobals concept and use cases of $_GET & $_POST",
+  "description": "Explore superglobals concept and use cases of $_SESSION & $_COOKIES",
   "authors": [
     {
       "name": "Andrés Aristizábal",

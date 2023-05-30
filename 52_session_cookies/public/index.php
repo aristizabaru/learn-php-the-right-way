@@ -40,6 +40,8 @@ use App\Router;
 
 require_once dirname(__DIR__) . '/vendor/autoload.php';
 
+define('BASE_PATH', '/52_session/public'); // base path
+
 /*
  * La sesión debe de ser inicializada antes que se envíe algún response header
  * de vuelta al cliente, esto en el sentido práctico es la generación de un 'echo'
@@ -49,8 +51,6 @@ require_once dirname(__DIR__) . '/vendor/autoload.php';
 session_start();
 
 echo '<pre>';
-
-define('BASE_PATH', '/52_session/public'); // base path
 
 // Registrar rutas
 $router = new Router();
