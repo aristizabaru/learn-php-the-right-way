@@ -26,6 +26,7 @@ class View
         }
         // Crea variables a partir del array de parámetros que se pasó al view
 
+        // Este aproach NO se debe usar por SEGURIDAD
         foreach ($this->params as $key => $value) {
             // Se usa variable variables para crear nuevas variables disponibles en el view
             $$key = $value;
