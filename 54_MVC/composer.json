@@ -1,0 +1,16 @@
+{
+  "name": "aristizabaru/mvc",
+  "description": "Explore the first approach to the MVC pattern",
+  "authors": [
+    {
+      "name": "Andrés Aristizábal",
+      "email": "andres.aristizabal@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
