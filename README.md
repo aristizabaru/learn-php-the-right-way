@@ -131,3 +131,5 @@ This repository is divided by the lessons (videos) that are part of the [Learn P
 #### [53. PHP File Uploads](53_file_upload)
 
 #### [54. PHP MVC Pattern - View Parameters Exploit](54_MVC)
+
+#### [55. HTTP Headers In PHP - Request & Response Headers](55_request_respond_headers)
